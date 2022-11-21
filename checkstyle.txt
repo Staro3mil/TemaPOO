@@ -1,0 +1,19 @@
+Starting audit...
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Board.java:18:27: '5' is a magic number. [MagicNumber]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Board.java:323:62: Parameter heroHealth should be final. [FinalParameters]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Board.java:438:27: '(' is preceded with whitespace. [MethodParamPad]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Board.java:449:16: '(' is followed by whitespace. [ParenPad]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Board.java:457:16: '(' is followed by whitespace. [ParenPad]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Board.java:468:13: 'for' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Board.java:469:20: '(' is followed by whitespace. [ParenPad]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Board.java:483:13: 'for' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Board.java:484:20: '(' is followed by whitespace. [ParenPad]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Board.java:496:13: 'for' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Board.java:507:9: 'for' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Function.java:21:5: Method length is 537 lines (max allowed is 150). [MethodLength]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Function.java:46:19: '10' is a magic number. [MagicNumber]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\fileio\Function.java:116:25: '3' is a magic number. [MagicNumber]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\main\Main.java:12:14: Using the '.*' form of import should be avoided - fileio.*. [AvoidStarImport]
+[ERROR] C:\Users\matac\Documents\GitHub\oop-asignments\teme\tema\.\src\main\Main.java:19:17: Using the '.*' form of import should be avoided - java.util.*. [AvoidStarImport]
+Audit done.
+Checkstyle ends with 16 errors.
